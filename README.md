@@ -3,8 +3,8 @@
 
 ## Table of Contents:
 
-1. CV/Resume: <iframe src="https://raw.githubusercontent.com/Abraham-Mitchell/Portfolio/main/1_Mitchell_Abraham_Resume_Fall_2024.pdf" width="100%" height="600px">
-</iframe>
+1. CV/Resume:
+[View My Resume (PDF)](https://github.com/Abraham-Mitchell/Portfolio/blob/main/1_Mitchell_Abraham_Resume_Fall_2024.pdf)
 
 2. Intellectual Autobiography
 
