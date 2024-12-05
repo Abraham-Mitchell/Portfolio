@@ -3,7 +3,8 @@
 
 ## Table of Contents:
 
-1. CV/Resume
+1. CV/Resume: <iframe src="https://raw.githubusercontent.com/Abraham-Mitchell/Portfolio/main/1_Mitchell_Abraham_Resume_Fall_2024.pdf" width="100%" height="600px">
+</iframe>
 
 2. Intellectual Autobiography
 
