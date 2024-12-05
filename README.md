@@ -3,14 +3,14 @@
 
 ## Table of Contents:
 
-* CV/Resume
+1. CV/Resume
 
-* Intellectual Autobiography
+2. Intellectual Autobiography
 
-* Graduate Resource Compilation
+3. Graduate Resource Compilation
 
-* Annotated Bibliography
+4. Annotated Bibliography
 
-* Elevator Pitch
+5. Elevator Pitch
 
-* Plan of Study
+6. Plan of Study
