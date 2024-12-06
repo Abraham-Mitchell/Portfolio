@@ -1,46 +1,90 @@
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Resume</title>
+    <title>My Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .pdf-container {
+            background-color: white;
+            margin: 20px auto;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            border-radius: 8px;
+        }
+
+        iframe {
+            width: 100%;
+            height: 500px;
+            border: none;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .pdf-container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+    </style>
 </head>
 <body>
-    <h1>Abraham Mitchell's Portfolio</h1>
-    
-    <h2>Table of Contents:</h2>
-    
-    <p>
-        
-1. CV/Resume<br>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <p>Explore my documents and resources below</p>
+    </header>
 
-2. Intellectual Autobiography<br>
+    <div class="pdf-container">
+        <h2>Resume</h2>
+        <iframe src="https://abraham-mitchell.github.io/Portfolio/1_Mitchell_Abraham_Resume_Fall_2024.pdf></iframe>
+    </div>
 
-3. Graduate Resource Compilation<br>
+    <div class="pdf-container">
+        <h2>Intellectual Autobiography</h2>
+        <iframe src="https://abraham-mitchell.github.io/Portfolio/2_Mitchell_Abraham_GRSD51103_Int_Aut_FD.pdf"></iframe>
+    </div>
 
-4. Annotated Bibliography<br>
-
-5. Elevator Pitch<br>
-
-6. Plan of Study<br>
-
-        
-    </p>
-    <iframe src="https://abraham-mitchell.github.io/Portfolio/1_Mitchell_Abraham_Resume_Fall_2024.pdf" width="75%" height="600px" style="border: none margin-bottom: 100px;"></iframe>
-
-    <iframe src="https://abraham-mitchell.github.io/Portfolio/2_Mitchell_Abraham_GRSD51103_Int_Aut_FD.pdf" width="75%" height="600px" style="border: none margin-bottom: 100px;"></iframe>
-
-    <iframe src="https://abraham-mitchell.github.io/Portfolio/3_Personalized_Grad_Resource_Compilation.pdf" width="75%" height="600px" style="border: none margin-bottom: 100px;"></iframe>
-
-    <iframe src="https://abraham-mitchell.github.io/Portfolio/4_Mitchell_Abraham_GRSD51103_Anotated_Bib.pdf" width="75%" height="600px" style="border: none margin-bottom: 100px;"></iframe>
-
-    <iframe src="https://abraham-mitchell.github.io/Portfolio/5_Mitchell_Abraham_Elevator_Pitch.pdf" width="75%" height="600px" style="border: none margin-bottom: 100px;"></iframe>
-
-    <iframe src="https://abraham-mitchell.github.io/Portfolio/6_Mitchell_Abraham_GRSD51103_PS.pdf" width="75%" height="600px" style="border: none margin-bottom: 100px;"></iframe>
-
-
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
 </body>
 </html>
+
+
+
+
+
+
 
 
 
